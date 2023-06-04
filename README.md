@@ -18,7 +18,6 @@ My name is Ihsan Ahmed, I live in Ethiopia.
 [![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)][2]
 
 
-[1]: https://www.facebook.com/profile.php?id=100006813316007
 [2]: https://www.linkedin.com/in/ihsan-ahmed-52787575/
 <a href="https://github.com/ihsahm/ihsahm">
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ihsahm&tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5"/>
