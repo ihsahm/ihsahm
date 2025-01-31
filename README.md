@@ -4,7 +4,7 @@ My name is Ihsan Ahmed, I live in Ethiopia.
 
 ## 🔧 Programming tools
 
-![Flutter](https://img.shields.io/badge/-Flutter-blue)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
 ![Firebase](https://img.shields.io/badge/-Firebase-important)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-critical)
 ![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23474e70)
