@@ -5,16 +5,18 @@ My name is Ihsan Ahmed, I live in Ethiopia.
 ## 🔧 Programming tools
 
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
-![Firebase](https://img.shields.io/badge/-Firebase-important)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-critical)
-![MicrosoftSQLServer](https://img.shields.io/badge/-Microsoft%20SQL%20Server-%23474e70)
-![HTML](https://img.shields.io/badge/-Html-success)
-![ASP.NET Core](https://img.shields.io/badge/-ASP.NET%20Core-yellowgreen)
-![CSS](https://img.shields.io/badge/-CSS-%23687ff2)
-![Prolog](https://img.shields.io/badge/-Prolog-%23db3d16)
+![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white
 
 ## Contact me
-![linkedin](https://cloud.githubusercontent.com/assets/17016297/18839848/0fc7e74e-83d2-11e6-8c6a-277fc9d6e067.png)
+![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
 
 
 [2]: https://www.linkedin.com/in/ihsan-ahmed-52787575/
