@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-My name is Ihsan Ahmed, I live in Ethiopia.
+
 
 ## 🔧 Programming tools
 
